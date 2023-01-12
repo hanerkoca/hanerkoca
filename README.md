@@ -2,9 +2,9 @@
 
 <h3 align="center">Data Science & Machine Learning Bootcamp Participant at Veri Bilimi Okulu</h3><br>
  
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I’m currently working on **Data Analytics**
 
-- 🌱 I’m currently learning **Python, Data Science and Machine Learning**
+- 🌱 I’m currently learning **Data Science and Machine Learning**
 
 - 📫 How to reach me **hanerkoca@gmail.com**<br><br>
 
