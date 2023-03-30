@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Haner</h1>
-
-<h3 align="center">Data Science & Machine Learning Bootcamp Participant at Veri Bilimi Okulu</h3><br>
  
 - 🔭 I’m currently working on **Data Analytics**
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
-
-- 📫 How to reach me **hanerkoca@gmail.com**<br><br>
+- 🌱 I’m enthusiastic about **Data Science and Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
